@@ -27,7 +27,7 @@ My Blender configuration files and scripts. Includes a customized color scheme b
 
 -Compositing: A layout made for compositing renders. Includes a 3D View for changing the scene if needed, an UV/Image Editor for viewing renders and composites, and a large space for compositing. Also has the Properties and Timeline panels on the right.
 
-Download and place in "%APPDATA%/Blender Foundation/Blender". Rename the folder to the version currently being used. Upon starting Blender it show my last recent file names I was working on, clicking on these will give you a harmless error and permanently get rid of them.
+Download and place in "%APPDATA%/Blender Foundation/Blender". Rename the folder to the version currently being used.
 
 Scripts can be removed if only the theme is wanted.
 
