@@ -2,6 +2,8 @@
 
 (This repository is mainly for me.)
 
+Starting from Blender version 2.74.
+
 My Blender configuration files and scripts. Includes a customized color scheme based off of the Elsyiun preset. Main changes to the scheme are the dropdown tab coloring in the properties panel and anywhere else that features the same kind of dropdown tab. The stats that show on the info panel's menu bar are now a more readable shade of white. Most notable of all, most of the panel layouts are customized for their specific purposes:
 
 
